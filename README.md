@@ -1,4 +1,5 @@
-# Gitチュートリアル
+# Git繝√Η繝ｼ繝医Μ繧｢繝ｫ
 	- featureA
 	- fix-B
 	- feature--C
+	- feature-D
